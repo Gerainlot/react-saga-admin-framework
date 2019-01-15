@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import { withRouter } from "react-router-dom";
 
-@withRouter
+// @withRouter
 class Login extends Component{
     render(){
         return(
