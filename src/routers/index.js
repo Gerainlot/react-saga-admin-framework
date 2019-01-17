@@ -5,7 +5,7 @@ import Login from "./Login";
 import Layouts from "./Layouts";
 import store from "../store";
 
-// @withRouter
+@withRouter
 class Routers extends Component{
     render(){
         return(
